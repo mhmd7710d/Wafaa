@@ -28,4 +28,4 @@ HTML وCSS وJavaScript عادي، من غير أي مكتبة. الأنيميش
 - Facebook: https://www.facebook.com/share/1CQhxpCeYL/
 - Instagram: https://www.instagram.com/mhmd7710d/
 - Email: muhammutfathi@gmail.com
-- WhatsApp: https://wa.me/201040428475?text=Hi+Mohamed%2C+I+found+your+project+on+GitHub.
+- WhatsApp: https://wa.me/201040428475?text=Hi+Mohammad%2C+I+found+your+project+on+GitHub.
